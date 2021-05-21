@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.mohuangNPC</groupId>
+  <artifactId>HttpUtil</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20210521030734</lastUpdated>
+  </versioning>
+</metadata>
